@@ -2,7 +2,6 @@
 function getTodos() {
   console.log('GET Request');
 }
-
 // POST REQUEST
 function addTodo() {
   console.log('POST Request');
