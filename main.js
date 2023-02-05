@@ -99,7 +99,6 @@ function transformResponse() {
   }
   axios(options).then(res=>showOutput(res))
 }
-
 // ERROR HANDLING
 function errorHandling() {
   axios
